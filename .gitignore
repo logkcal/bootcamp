@@ -1,0 +1,12 @@
+*.class
+*.pidb
+*.sln
+*.userprefs
+bin/
+temp/
+test-results/
+*.suo
+obj/bin
+bin
+bin/
+*.class
