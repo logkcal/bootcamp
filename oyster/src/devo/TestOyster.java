@@ -234,7 +234,6 @@ public class TestOyster {
         assertEquals("bd", ARRAYS.findNonRepeated("aabcccd"));
         assertEquals("", ARRAYS.findNonRepeated("ababab"));
         assertEquals("Ho,I'JgBa", ARRAYS.findNonRepeated("Hello,I'm Jeongim Bae"));
-
     }
     
     /*
